@@ -1,4 +1,4 @@
 # rebase
 
-This is only a test.
+This is only a fake repo.
 
